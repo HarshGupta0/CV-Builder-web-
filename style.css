@@ -1,0 +1,109 @@
+/* 
+#myimg{
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+}
+.background{
+    background-color: aqua;
+}
+#cv-template{
+    display: none;
+} */
+ /* style.css */
+/* style.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+#cv-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+#cv-form h1, #cv-form h3, #cv-form h4 {
+    color: #007bff;
+}
+
+#cv-form .form-group label {
+    font-weight: bold;
+}
+
+#cv-form .form-control {
+    border-radius: 5px;
+}
+
+#cv-form .btn {
+    border-radius: 5px;
+}
+
+#cv-template {
+    display: none;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+}
+
+#myimg {
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+}
+
+.background {
+    background-color: #007bff;
+    color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#cv-template .card-header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+#cv-template .card {
+    border-radius: 10px;
+    border: none;
+}
+
+#cv-template h1 {
+    color: #007bff;
+    font-weight: 900;
+    font-size: 2rem;
+}
+
+#cv-template h3 {
+    color: white;
+    font-weight: 700;
+}
+
+#cv-template p, #cv-template ul {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+#cv-template ul {
+    padding-left: 20px;
+}
+
+#cv-template .btn {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+#cv-template .btn:hover {
+    background-color: #0056b3;
+}
